@@ -12,7 +12,7 @@ The list is sorted alphabetically.
 
 ## How to contribute?
 
-If you are missing an application in the list or notice outdated information, feel free to create a Pull Request. Please only add applications with officially documented URL Schemes / Universal Links.
+Feel free to create a Pull Request to improve this list, e.g. if you are missing an application in the list or notice outdated information. Please only add applications with officially documented URL Schemes / Universal Links.
 
 ## Known iOS URL Schemes and Universal Links
 
