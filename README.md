@@ -10,7 +10,7 @@ The list is sorted alphabetically.
 
 **Universal Link** - also used to launch a specific app from another app on the user's iOS device. If the app is not installed, the link will open in user's browser.
 
-## How to contribute?
+## Contribution appreciated
 
 Feel free to create a Pull Request to improve this list, e.g. if you are missing an application in the list or notice outdated information. Please only add applications with officially documented URL Schemes / Universal Links.
 
